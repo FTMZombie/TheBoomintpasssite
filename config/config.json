@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2741a61fa5ff46288ffccfd0c33891251a2657e2",
+  "SCAN_LINK": "https://ftmscan.com/address/0x2741a61fa5ff46288ffccfd0c33891251a2657e2",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "FHFC | Boo Lifetime Mint Pass",
+  "SYMBOL": "BOO",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 11000000000000000000,
+  "DISPLAY_COST": 11.00,
+  "GAS_LIMIT": 385000,
+  "MARKETPLACE": "Operahouse",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
